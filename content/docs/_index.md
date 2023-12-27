@@ -5,7 +5,7 @@ weight: 1
 date: 2021-01-29
 menu:
   main:
-    weight: 20
+    weight: 10
     pre: <i class='fas fa-book'></i>
 ---
 
